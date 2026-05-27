@@ -1,20 +1,31 @@
-# Frosted-Discord
+# Frosted-Themes
 
-A collection of Discord themes for use with Vencord.
+A collection of themes and stuff I use
 
 ---
+
+# Frosted-FastFetch
+
+### How to Use
+1. Go to ~/.config/fastfetch/
+2. Add to config.jsonc
+
+---
+
+---
+
+# Frosted-Discord
 
 > **Base theme:**  
 > https://github.com/refact0r/midnight-discord
 
----
+
 
 ## How to Use
 1. Open Vencord.
 2. Go to the **Online Themes** section.
 3. Paste any of the links below to apply a theme.
 
----
 
 ## Available Themes
 
@@ -49,3 +60,5 @@ A collection of Discord themes for use with Vencord.
 
 ### Vimix Night
 `https://raw.githubusercontent.com/FrostyCirno/Frosted-Discord/refs/heads/main/Themes/VimixNight.css`
+
+---
