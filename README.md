@@ -30,35 +30,35 @@ A collection of themes and stuff I use
 ## Available Themes
 
 ### Gloom
-`https://raw.githubusercontent.com/FrostyCirno/Frosted-Discord/refs/heads/main/Themes/Gloom.css`
+`https://raw.githubusercontent.com/FrostyCirno/Frosted-Themes/refs/heads/main/Discord/Themes/Gloom.css`
 
 ### Graphite Dark
-`https://raw.githubusercontent.com/FrostyCirno/Frosted-Discord/refs/heads/main/Themes/GraphiteDark.css`
+`https://raw.githubusercontent.com/FrostyCirno/Frosted-Themes/refs/heads/main/Discord/Themes/GraphiteDark.css`
 
 ### Graphite Light
-`https://raw.githubusercontent.com/FrostyCirno/Frosted-Discord/refs/heads/main/Themes/GraphiteLight.css`
+`https://raw.githubusercontent.com/FrostyCirno/Frosted-Themes/refs/heads/main/Discord/Themes/GraphiteLight.css`
 
 ### Cirno
-`https://raw.githubusercontent.com/FrostyCirno/Frosted-Discord/refs/heads/main/Themes/Cirno.css`
+`https://raw.githubusercontent.com/FrostyCirno/Frosted-Themes/refs/heads/main/Discord/Themes/Cirno.css`
 
 ### Reimu
-`https://raw.githubusercontent.com/FrostyCirno/Frosted-Discord/refs/heads/main/Themes/Reimu.css`
+`https://raw.githubusercontent.com/FrostyCirno/Frosted-Themes/refs/heads/main/Discord/Themes/Reimu.css`
 
 ### Yukari
 
-`https://raw.githubusercontent.com/FrostyCirno/Frosted-Discord/refs/heads/main/Themes/Yukari.css`
+`https://raw.githubusercontent.com/FrostyCirno/Frosted-Themes/refs/heads/main/Discord/Themes/Yukari.css`
 
 ### Flandre
 
-`https://raw.githubusercontent.com/FrostyCirno/Frosted-Discord/refs/heads/main/Themes/Flandre.css`
+`https://raw.githubusercontent.com/FrostyCirno/Frosted-Themes/refs/heads/main/Discord/Themes/Flandre.css`
 
 ### Vimix Day
-`https://raw.githubusercontent.com/FrostyCirno/Frosted-Discord/refs/heads/main/Themes/VimixDay.css`
+`https://raw.githubusercontent.com/FrostyCirno/Frosted-Themes/refs/heads/main/Discord/Themes/VimixDay.css`
 
 ### Vimix Morning
-`https://raw.githubusercontent.com/FrostyCirno/Frosted-Discord/refs/heads/main/Themes/VimixMoring.css`
+`https://raw.githubusercontent.com/FrostyCirno/Frosted-Themes/refs/heads/main/Discord/Themes/VimixMoring.css`
 
 ### Vimix Night
-`https://raw.githubusercontent.com/FrostyCirno/Frosted-Discord/refs/heads/main/Themes/VimixNight.css`
+`https://raw.githubusercontent.com/FrostyCirno/Frosted-Themes/refs/heads/main/Discord/Themes/VimixNight.css`
 
 ---
