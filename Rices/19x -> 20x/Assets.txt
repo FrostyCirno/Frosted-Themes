@@ -1,0 +1,11 @@
+Global Theme: Reactionary Plus
+Colors:ReactionaryCatppuccinMochaBlue (BlueStaggo) (https://gist.github.com/BlueStaggo/1b35fcd453f2602682aefe1146fd2c4d)
+Application Style: MS Windows 9x
+GTK Style: Catppuccin-Mocha-Standard-Blue-Dark
+Plasma Style: React Plus
+Window Decorations: React Plus
+Icons: Pixora Dark
+Pointers: Chicago95_Standard_Cursors
+System Sounds: Ocean
+Splash Screen: None
+Konsole Theme: Catppuccin Mocha

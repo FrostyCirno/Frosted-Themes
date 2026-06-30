@@ -1,0 +1,12 @@
+Global Theme: Dream-Dark-Color-Global-6
+Colors: Dream-Violet-Dark-Color
+Application Style: Kvantum-Dark
+Kvantum Theme: Dream-Violet-Dark-Kvantum
+GTK Style: Dream-Violet-Dark-GTK
+Plasma Style: Dream-Color-Plasma
+Window Decorations: Dream-Blur-Color-Dark-Aurorae-6
+Icons: Yet Another Monochrome Icon Set For KDE Plasma
+Pointers: Posy's Cursor Black
+System Sounds: Ocean
+Splash Screen: None
+Konsole Theme: Dream-Blur-Violet-Dark-Konsole
