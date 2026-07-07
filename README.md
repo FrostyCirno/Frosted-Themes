@@ -77,3 +77,13 @@ I gave examples of what they would look like
 Assets.txt shows what to actually install
 
 </details>
+
+---
+
+<summary><h2>Retroflow Theme</h2></summary>
+<details>
+
+Music made by SkyNote, please contact me if you want your music taken down
+https://www.youtube.com/@SkyNote-1126
+
+</details>
