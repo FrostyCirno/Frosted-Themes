@@ -4,6 +4,19 @@ A collection of themes and stuff I use
 
 ---
 
+<summary><h2>Frosted-Wallpapers</h2></summary>
+<details>
+
+Tons off wallpapers!
+Wallpapers that I believe to be AI Generated / AI Assisted will be marked with AIG or AIA
+Also attempting to give credit for the images, please leave an issue if I am missing credit
+
+</details>
+
+---
+
+---
+
 <summary><h2>Frosted-FastFetch</h2></summary>
 <details>
 
@@ -61,15 +74,6 @@ A collection of themes and stuff I use
 
 ---
 
-<summary><h2>Frosted-Wallpapers</h2></summary>
-<details>
-
-Tons off wallpapers!
-
-</details>
-
----
-
 <summary><h2>Frosted-Rices</h2></summary>
 <details>
 
@@ -80,7 +84,7 @@ Assets.txt shows what to actually install
 
 ---
 
-<summary><h2>Retroflow Theme</h2></summary>
+<summary><h2>Frosted-Retroflow</h2></summary>
 <details>
 
 Music made by SkyNote, please contact me if you want your music taken down
